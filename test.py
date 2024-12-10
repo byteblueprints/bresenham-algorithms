@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-from main import get_bresenhams_line
+from bresenham import get_bresenhams_line
 
 # Generate the line coordinates using the get_bresenhams_line function
 line_coord = get_bresenhams_line(250, 20, 450, 450)
