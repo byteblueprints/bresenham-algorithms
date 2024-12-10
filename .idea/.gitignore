@@ -1,0 +1,39 @@
+# User-specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.db
+
+# Maven
+.target/
+.idea_modules/
+
+# Gradle
+.gradle/
+build/
+
+# Kotlin
+*.kts
+
+# Eclipse specific
+.project
+.classpath
+.settings/
+
+# JetBrains IDEs
+out/
+
+# Files created by IDEs
+*.orig
