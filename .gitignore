@@ -37,3 +37,6 @@ out/
 
 # Files created by IDEs
 *.orig
+
+# Python cache
+__pycache__/
