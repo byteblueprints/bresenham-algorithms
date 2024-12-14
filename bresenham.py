@@ -1,3 +1,6 @@
+import math
+
+
 def get_bresenhams_line(x0, y0, x1, y1) -> list:
     """
     Generates a list of pixel coordinates that form a line between two points (x0, y0) and (x1, y1) using Bresenham's line algorithm.
